@@ -1,0 +1,10 @@
+#Jupiter{margin: 15px 0;
+transform: rotatez(45deg);}
+#Marte{cursor: pointer;
+    transition: all ease 1s;
+}
+#Marte:hover{transform: scale(2,2);
+    margin: 50px 0 50px 100px;}
+#Saturno{cursor: pointer;
+    transition: all ease-in-out 2s;}
+#Saturno:hover{transform: rotate(180deg);}
